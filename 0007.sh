@@ -1,2 +1,2 @@
-yaourt --noconfirm -S kvdo-dkms
-yaourt --noconfirm -S vdo
+sudo -u manjaro yaourt --noconfirm -S kvdo-dkms
+sudo -u manjaro yaourt --noconfirm -S vdo

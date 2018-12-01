@@ -1,2 +1,2 @@
-vdo create --name=vdoasync --device=/dev/md/0 \
-	   --vdoLogicalSize=1000G --writePolicy=async
+yaourt --noconfirm -S kvdo-dkms
+yaourt --noconfirm -S vdo
